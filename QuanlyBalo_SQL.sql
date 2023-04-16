@@ -1,7 +1,7 @@
 ﻿--create table balo(
 --maBalo nvarchar (20),
 --tenbalo nvarchar (50),
---primary key (maBalo),
+--CONSTRAINT balo_pk primary key (maBalo),
 --size nvarchar(10),
 --soluong float,
 --dvt float,
